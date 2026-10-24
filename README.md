@@ -1,20 +1,15 @@
-# UIUXD CCA3 Group
+Group members
 
-This repository stores the project research materials for the UI/UX Design CCA3
-group project.
+Mohammad Daniyal shamshad-1032230639
+Afraz kamal- 1032230513
+Vidhu Preman - 1032231090
 
-## Folder structure
+Link -
 
-| Folder | Contents |
-| --- | --- |
-| [`audio`](./audio) | Audio recordings, such as interview or usability-test recordings |
-| [`transcripts`](./transcripts) | Transcripts created from the audio recordings |
-| [`survey-data`](./survey-data) | Survey responses and related data files |
+https://snapdeal-prototype.netlify.app/ 
 
-## File guidelines
+https://www.figma.com/design/W9JTQE2LWUoQIqVxBzTpfJ/Untitled?node-id=0-1&p=f
 
-- Keep files in the folder that matches their type.
-- Use clear, descriptive filenames.
-- Do not upload passwords, API keys, or other confidential information.
-- Add a short description and the collection date when documenting a new dataset.
+Conclusion and Summary-
 
+The think-aloud testing session helped us evaluate the original Snapdeal website and our redesigned prototype. Participants tested product search, navigation, filters, adding items to the cart, and checkout. Their feedback helped us understand the usability issues and identify areas for improvement. The redesigned prototype focuses on a cleaner interface, easier navigation, better product visibility, and a smoother shopping experience. Overall, the session highlighted the importance of user feedback in improving usability and making the website more intuitive and user-friendly.
